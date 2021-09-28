@@ -1,4 +1,10 @@
 {
   "Test": "trueTest",
-  "Port": 3
+  "Port": 3,
+  "DB": {
+    "Port": "5432",
+    "User": "User",
+    "Password": "User",
+    "Test1": "User"
+  }
 }
